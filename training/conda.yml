@@ -1,0 +1,8 @@
+name: training
+dependencies:
+- python=3.8
+- pip
+- pip:
+  - pandas
+  - joblib
+  - sklearn

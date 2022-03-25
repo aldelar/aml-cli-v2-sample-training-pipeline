@@ -1,0 +1,6 @@
+name: evaluation_and_registration
+dependencies:
+- python=3.8
+- pip
+- pip:
+  - azureml-sdk

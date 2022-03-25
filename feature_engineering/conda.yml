@@ -1,0 +1,6 @@
+name: feature_engineering
+dependencies:
+- python=3.8
+- pip
+- pip:
+  - pandas
